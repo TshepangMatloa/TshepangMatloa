@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tshepang Matloa
 - 👀 I’m interested in software and mobile development
-- 🌱 I’m currently learning angular and react.js
+- 🌱 I develop web applications using ASP.NET. I’m currently learning angular and react.js
 - 💞️ I’m looking to collaborate on my projects
 - 📫 Reach me on this email address tshepang.matloa97@gmail.com
 
